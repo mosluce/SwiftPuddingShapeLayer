@@ -12,6 +12,7 @@
 		440954031D50A92B00983650 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 440954011D50A92B00983650 /* Main.storyboard */; };
 		440954051D50A92B00983650 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 440954041D50A92B00983650 /* Assets.xcassets */; };
 		440954081D50A92B00983650 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 440954061D50A92B00983650 /* LaunchScreen.storyboard */; };
+		440954101D50A94500983650 /* SwiftPuddingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4409540F1D50A94500983650 /* SwiftPuddingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		440954041D50A92B00983650 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		440954071D50A92B00983650 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		440954091D50A92B00983650 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4409540F1D50A94500983650 /* SwiftPuddingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftPuddingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				440953FD1D50A92B00983650 /* AppDelegate.swift */,
 				440953FF1D50A92B00983650 /* ViewController.swift */,
+				4409540F1D50A94500983650 /* SwiftPuddingView.swift */,
 				440954011D50A92B00983650 /* Main.storyboard */,
 				440954041D50A92B00983650 /* Assets.xcassets */,
 				440954061D50A92B00983650 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				440954001D50A92B00983650 /* ViewController.swift in Sources */,
+				440954101D50A94500983650 /* SwiftPuddingView.swift in Sources */,
 				440953FE1D50A92B00983650 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
